@@ -1,0 +1,7 @@
+venv/
+.fleet/
+.idea/
+.ipynb_checkpoints/
+.mypy_cache/
+.vscode/
+__pycache__/
